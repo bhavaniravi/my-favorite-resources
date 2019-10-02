@@ -20,4 +20,4 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - What worked for you?
     - What didn't you understand?
     
-  --
+  ---
