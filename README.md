@@ -21,3 +21,14 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - What didn't you understand?
     
   ---
+### [Ryan Freemark](https://github.com/freemark21)
+
+> Family man breaking into the IT industry. [LinkedIn](http://linkedin.com/in/ryanfreemark)
+
+#### Front End
+1. [/r/Web_Design](https://www.reddit.com/r/web_design/)
+    - I like this subreddit for inspiration
+    - I've taken style and design ideas, made them my own, and implemented into employers e-commerce site
+    - There are some complex designers in here!
+    
+  ---
