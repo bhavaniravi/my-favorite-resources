@@ -21,6 +21,24 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - What didn't you understand?
     
   ---
+
+### [Bhavani Ravi](github.com/bhavaniravi)
+
+> Software Engineer by profession. Code, Speak, Write, Teach and run tech communities by passion. More at [bhavaniravi.com](bhavaniravi.com)
+
+#### Git
+1. [Git No Shit](http://rogerdudler.github.io/git-guide/)
+    - Extremely beginner friendly. 
+    - Gives the necessary commands that you need to learn to get started and doesn't make you get overwhelemd
+    - Beginers often stop with this resource alone hence struggle when real problems hit which is why I suggest the next resource
+    
+2. [Learn Git not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+    - Yes, commands are important to work with but learning the under the hood concepts is largely important. 
+    - The article explains it farely simply and easy to consume manner. 
+    - Nothing specific
+    
+  ---  
+  
 ### [Ryan Freemark](https://github.com/freemark21)
 
 > Family man breaking into the IT industry. [LinkedIn](http://linkedin.com/in/ryanfreemark)
