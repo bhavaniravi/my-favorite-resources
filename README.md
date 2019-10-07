@@ -69,14 +69,16 @@ A Repository to collect and showcases developers' favorite resources to learn a 
 
 > College student learning computer programming in and outside of schools, I am on [Twitter](https://twitter.com/ming__yong).
 
-#### JS/Git/and more
-1. [The Coding Train Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-    - **Why I like it?** Easy to follow tutorials(many tutorials) and excellent teaching style!
-    - **What worked for me?** 
-        - Try watching videos with title that contains buzz words that scares me(for instance, Closure, Promises, API).
-        - Watch it several times to understand it(sometime you have to go away and learn some little pieces and then come back).
-        - Use other resources(for example, freeCodeCamp, JavaScript30, YDKJS) when learning.
-        - Try to reproduce the project, change something and debug.
+#### Git and Github
+1. ["Git and GitHub for Poets" by TheCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+    - **Why I like it?** Learn how to use git and github without knowing how to code.
+    - **What worked for me?** Create a repository to play around after watching the tutorials, or even created another account to collaborate with yourself.
     - **What didn't I understand?** Nothing specific.
+
+#### Data and APIs in JavaScript(if new to NodeJS/npm/APIs/JSON/POST and GET request)
+1. ["Working with Data and APIs in JavaScript" by TheCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+    - **Why I like it?** Many terminology of JavaScript was introduced in a very beginner friendly way.
+    - **What worked for me?** Follow along and try to reproduce the project, watch the video several times for better understanding.
+    - **What didn't I understand?** Great introduction to client/server side code but definitely more pracitce needed afterwards.
     
   ---
