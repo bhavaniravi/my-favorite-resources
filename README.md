@@ -62,3 +62,21 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - The interactivity of the project is what helped it work for me. It is a lot easier to understand something when you're able to actually use it and see the effects.
     - For complete beginners it might be difficult to translate the lessons from this site directly to a real project, especially one where you are collaborating with other people.
 
+  ---
+  
+  
+### [Ming Yong](https://github.com/ming-yong)
+
+> College student learning computer programming in and outside of schools, I am on [Twitter](https://twitter.com/ming__yong).
+
+#### JS/Git/and more
+1. [The Coding Train Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+    - **Why I like it?** Easy to follow tutorials(many tutorials) and excellent teaching style!
+    - **What worked for me?** 
+        - Try watching videos with title that contains buzz words that scares me(for instance, Closure, Promises, API).
+        - Watch it several times to understand it(sometime you have to go away and learn some little pieces and then come back).
+        - Use other resources(for example, freeCodeCamp, JavaScript30, YDKJS) when learning.
+        - Try to reproduce the project, change something and debug.
+    - **What didn't I understand?** Nothing specific.
+    
+  ---
