@@ -85,14 +85,15 @@ A Repository to collect and showcases developers' favorite resources to learn a 
 ### [Gayathri Krishnan](https://github.com/gayathri-krishnan)  
 
   1. [Algorithms - Coursera Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
-    - Very well structured and explained. Startes from O(n), works through different algorithms. 
-    - The examples and assgnments
-    - Why some of my code failed due to texecution time. But that's me. I would highly recomment his course
+     - **Why I like it?** Very well structured and explained. Startes from O(n), works through different algorithms. 
+     - **What worked for me?** The examples and assgnments
+     - **What didn't I understand?** Why some of my code failed due to texecution time. But that's me. I would highly recommend
+    
   2.[Udemy](https://udemy.com)
-    - Affordable cost, with content made permanently available at one time cost 
-    - Personal commitments make it hard for me to find time to learn. With video courses, I keep listening wvwn when I am doing mundane tasks at home. Ensures I do not forget somehting just bcause I am not currently working on it
-    - Nothing at all
+    - **Why I like it?** Affordable cost, with content made permanently available at one time cost 
+    - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget somehting just bcause I am not currently working on it
+    
   3.[Medium](https://medium.com/)
-    - Affordable cost 
-    - Daily reading list sent via email based on the user's reading history
+    - **Why I like it?** Affordable cost 
+    -  **What worked for me?** Daily reading list sent via email based on the user's reading history
 ---
