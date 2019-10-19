@@ -86,12 +86,12 @@ A Repository to collect and showcases developers' favorite resources to learn a 
 
   1. [Algorithms - Coursera Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
      - **Why I like it?** Very well structured and explained. Starts from O(n), works through different algorithms. 
-     - **What worked for me?** The examples and assgnments
-     - **What didn't I understand?** Why some of my code failed due to texecution time. But that's me. I would highly recommend
+     - **What worked for me?** The examples and assignments
+     - **What didn't I understand?** Why some of my code failed due to execution time. But that's me. I would highly recommend
     
   2. [Udemy](https://udemy.com)
      - **Why I like it?** Affordable cost, with content made permanently available at one time cost 
-     - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget somehting just bcause I am not currently working on it
+     - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget something just because I am not currently working on it.
     
   3. [Medium](https://medium.com/)
      - **Why I like it?** Affordable cost 
