@@ -89,11 +89,11 @@ A Repository to collect and showcases developers' favorite resources to learn a 
      - **What worked for me?** The examples and assgnments
      - **What didn't I understand?** Why some of my code failed due to texecution time. But that's me. I would highly recommend
     
-  2.[Udemy](https://udemy.com)
-    - **Why I like it?** Affordable cost, with content made permanently available at one time cost 
-    - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget somehting just bcause I am not currently working on it
+  2. [Udemy](https://udemy.com)
+     - **Why I like it?** Affordable cost, with content made permanently available at one time cost 
+     - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget somehting just bcause I am not currently working on it
     
   3.[Medium](https://medium.com/)
-    - **Why I like it?** Affordable cost 
-    -  **What worked for me?** Daily reading list sent via email based on the user's reading history
+     - **Why I like it?** Affordable cost 
+     - **What worked for me?** Daily reading list sent via email based on the user's reading history
 ---
