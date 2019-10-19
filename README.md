@@ -90,8 +90,8 @@ A Repository to collect and showcases developers' favorite resources to learn a 
      - **What worked for me?** The examples and assignments
      - **What didn't I understand?** Why some of my code failed due to execution time. But that's me. I would highly recommend
     
-  2. [Udemy](https://udemy.com)
-     - **Why I like it?** Affordable cost, with content made permanently available at one time cost 
+  2. [Udemy Java masterclass from Tim Buchalka](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+     - **Why I like it?** Affordable cost, with content made permanently available at one time cost. Covers upto Java 11 features with apt examples
      - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget something just because I am not currently working on it.
     
   3. [Medium](https://medium.com/)
