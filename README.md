@@ -84,3 +84,19 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - **What didn't I understand?** Great introduction to client/server side code but definitely more pracitce needed afterwards.
     
   ---
+### [Gayathri Krishnan](https://github.com/gayathri-krishnan)  
+> Working mom of two kids, Java/J2EE developer with sound DB knowledge. Worked across technologies over the years. Find me on [LinkedIn](https://www.linkedin.com/in/gayathri-krishnan-24738148/)
+
+  1. [Algorithms - Coursera Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+     - **Why I like it?** Very well structured and explained. Starts from O(n), works through different algorithms. 
+     - **What worked for me?** The examples and assignments
+     - **What didn't I understand?** Why some of my code failed due to execution time. But that's me. I would highly recommend
+    
+  2. [Udemy Java masterclass from Tim Buchalka](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+     - **Why I like it?** Affordable cost, with content made permanently available at one time cost. Covers upto Java 11 features with apt examples
+     - **What worked for me?** Personal commitments make it hard for me to find time to learn. With video courses, I keep listening when       I am doing mundane tasks at home. Ensures I do not forget something just because I am not currently working on it.
+    
+  3. [Medium](https://medium.com/)
+     - **Why I like it?** Affordable cost 
+     - **What worked for me?** Daily reading list sent via email based on the user's reading history
+---
