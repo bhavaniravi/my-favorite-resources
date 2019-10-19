@@ -83,6 +83,7 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     
   ---
 ### [Gayathri Krishnan](https://github.com/gayathri-krishnan)  
+> Working mom of two kids, Java/J2EE developer with sound DB knowledge. Worked across technologies over the years. Find me on linkedIn(https://www.linkedin.com/in/gayathri-krishnan-24738148/)
 
   1. [Algorithms - Coursera Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
      - **Why I like it?** Very well structured and explained. Starts from O(n), works through different algorithms. 
