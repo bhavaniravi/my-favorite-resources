@@ -2,11 +2,13 @@
 A Repository to collect and showcases developers' favorite resources to learn a technology. No this is not the [Awesome-list] The idea is to collect the resources that has worked for you, to understand why it worked for you and what do you like the most about it. 
 
 ## Guidelines
-1. Add resources that you have personally used and loved
+1. Add resources that you have personally used and loved. 
 2. Must add why you love the resource
 3. Would be nice if you can also add which parts you found difficult
 4. Any other things consumer should keep in mind
 5. It can be blogs/videos/courses/ paid/free doesn't matter
+
+> Add a specific resource with respect to a technology e.g., python or domain like "backend engineering". Please do not add broad items or platforms like "udemy", "coursera" etc., We are looking for specific resources people found useful 
 
 ## Sample Template
 
