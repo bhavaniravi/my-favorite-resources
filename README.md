@@ -84,3 +84,22 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - **What didn't I understand?** Great introduction to client/server side code but definitely more pracitce needed afterwards.
     
   ---
+
+
+### [Joel Melo](https://github.com/ArquiteturaJoel/)
+
+> It´s me in HAIKU:<br>
+Dev life is about coding<br>
+zero one one ON<br>
+Everything works so awesome<br>
+I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
+
+#### Python for Data Science
+1. [Python for Data Science](https://courses.analyticsvidhya.com/courses/introduction-to-data-science)
+    - Why you like it?  It´s free and have many compreensive lessons.
+    - What worked for you? Open new Jobs opportunities and now I know cooking data by heart.
+    - What didn't you understand? Nothing all, the lesson´s are easy going.
+    
+  ---    
+  
+  
