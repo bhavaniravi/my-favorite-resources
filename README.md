@@ -100,6 +100,18 @@ I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
     - What worked for you? Open new Jobs opportunities and now I know cooking data by heart.
     - What didn't you understand? Nothing all, the lesson´s are easy going.
     
-  ---    
+  ---   
+  ### [Ivana Livaja](https://github.com/Ivilili)
+
+>  FrontEnd developer, imposter syndrome master...I am on [Twitter](https://twitter.com/ivilili18)
+
+
+#### JavaScript
+1. ["The Complete JavaScript Handbook" by Flavio Copes](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+    - **Why I like it?** It gave me a good guideline on JavaScript standards.
+    - **What worked for me?** If you're self-taught developer, you might have some blind spots in your knowledge. This article help me see clearly what I know and need more to learn.
+    - **What didn't I understand?** Nothing, it is very well written and easy to understand.
+   
+ ---  
   
   
