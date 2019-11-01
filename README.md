@@ -104,11 +104,11 @@ I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
   
 
 ### [Sabesan Sathananthan](https://github.com/sabesansathananthan/)
-
-> Rejected ?<br>
-Failed ?<br>
-Thrown out? <br>
-Just remember, You are still breathing <br>
+> 
+{<br>
+Programming skills : ["Java","JavaScript","TypeScript","React Js", "Spring Boot"], <br>
+Soft Skills : ["Public Speaking", "Technical Writing"] <br>
+} <br>
 I am on [LinkedIn](https://www.linkedin.com/in/sabesan96).
 
 #### Designing Basic Network Scanner Using Python
