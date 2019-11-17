@@ -2,11 +2,13 @@
 A Repository to collect and showcases developers' favorite resources to learn a technology. No this is not the [Awesome-list] The idea is to collect the resources that has worked for you, to understand why it worked for you and what do you like the most about it. 
 
 ## Guidelines
-1. Add resources that you have personally used and loved
+1. Add resources that you have personally used and loved. 
 2. Must add why you love the resource
 3. Would be nice if you can also add which parts you found difficult
 4. Any other things consumer should keep in mind
 5. It can be blogs/videos/courses/ paid/free doesn't matter
+
+> Add a specific resource with respect to a technology e.g., python or domain like "backend engineering". Please do not add broad items or platforms like "udemy", "coursera" etc., We are looking for specific resources people found useful 
 
 ## Sample Template
 
@@ -62,7 +64,56 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - The interactivity of the project is what helped it work for me. It is a lot easier to understand something when you're able to actually use it and see the effects.
     - For complete beginners it might be difficult to translate the lessons from this site directly to a real project, especially one where you are collaborating with other people.
 
-### [Harishma.A](https://github.com/HarishmaA)
+  ---
+  
+### [Ming Yong](https://github.com/ming-yong)
+
+> College student learning computer programming in and outside of schools, I am on [Twitter](https://twitter.com/ming__yong).
+
+#### Git and Github
+1. ["Git and GitHub for Poets" by TheCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+    - **Why I like it?** Learn how to use git and github without knowing how to code.
+    - **What worked for me?** Create a repository to play around after watching the tutorials, or even created another account to collaborate with yourself.
+    - **What didn't I understand?** Nothing specific.
+
+#### Data and APIs in JavaScript(if new to NodeJS/npm/APIs/JSON/POST and GET request)
+1. ["Working with Data and APIs in JavaScript" by TheCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+    - **Why I like it?** Many terminology of JavaScript was introduced in a very beginner friendly way.
+    - **What worked for me?** Follow along and try to reproduce the project, watch the video several times for better understanding.
+    - **What didn't I understand?** Great introduction to client/server side code but definitely more pracitce needed afterwards.
+    
+  ---
+
+
+### [Joel Melo](https://github.com/ArquiteturaJoel/)
+
+> It´s me in HAIKU:<br>
+Dev life is about coding<br>
+zero one one ON<br>
+Everything works so awesome<br>
+I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
+
+#### Python for Data Science
+1. [Python for Data Science](https://courses.analyticsvidhya.com/courses/introduction-to-data-science)
+    - Why you like it?  It´s free and have many compreensive lessons.
+    - What worked for you? Open new Jobs opportunities and now I know cooking data by heart.
+    - What didn't you understand? Nothing all, the lesson´s are easy going.
+    
+  ---   
+  ### [Ivana Livaja](https://github.com/Ivilili)
+
+>  FrontEnd developer, imposter syndrome master...I am on [Twitter](https://twitter.com/ivilili18)
+
+
+#### JavaScript
+1. ["The Complete JavaScript Handbook" by Flavio Copes](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+    - **Why I like it?** It gave me a good guideline on JavaScript standards.
+    - **What worked for me?** If you're self-taught developer, you might have some blind spots in your knowledge. This article help me see clearly what I know and need more to learn.
+    - **What didn't I understand?** Nothing, it is very well written and easy to understand.
+   
+ ---  
+
+ ### [Harishma.A](https://github.com/HarishmaA)
 
 > Software Engineer working at Full Creative
 
@@ -73,6 +124,6 @@ A Repository to collect and showcases developers' favorite resources to learn a 
         1) https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/
         2) https://medium.com/free-code-camp/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 
-
-
-
+---
+  
+  
