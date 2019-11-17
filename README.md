@@ -62,13 +62,17 @@ A Repository to collect and showcases developers' favorite resources to learn a 
     - The interactivity of the project is what helped it work for me. It is a lot easier to understand something when you're able to actually use it and see the effects.
     - For complete beginners it might be difficult to translate the lessons from this site directly to a real project, especially one where you are collaborating with other people.
 
-[Harishma.A](https://github.com/HarishmaA) 
+### [Harishma.A](https://github.com/HarishmaA)
+
 > Software Engineer working at Full Creative
 
-#### UDACITY
-1. [Udacity](https://www.udacity.com/)
-    - The video are short and the instructors explain the concepts very clearly with real world examples
-    - I learnt Java Programming, Javascript from Udacity. The quizzes are really helpful to understand the concepts better.
-    - Sometimes,it will be little difficult to clear the quizzes. Anyway, the answers will be provided. 
+#### ReactJS
+1. [Learn React.js - Full Course for Beginners](https://www.youtube.com/watch?v=DLX62G4lc44)  
+     - Perfect video to get started with React.  
+     - All the core concepts were explained clearly with easy examples. He also shared some project ideas for practicing. Instead of always trying todo app, he suggested some links where we can find simple projects. The links for sample projects - 
+        1) https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/
+        2) https://medium.com/free-code-camp/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
+
+
 
 
