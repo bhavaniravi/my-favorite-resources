@@ -66,7 +66,6 @@ A Repository to collect and showcases developers' favorite resources to learn a 
 
   ---
   
-  
 ### [Ming Yong](https://github.com/ming-yong)
 
 > College student learning computer programming in and outside of schools, I am on [Twitter](https://twitter.com/ming__yong).
@@ -113,5 +112,18 @@ I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
     - **What didn't I understand?** Nothing, it is very well written and easy to understand.
    
  ---  
+
+ ### [Harishma.A](https://github.com/HarishmaA)
+
+> Software Engineer working at Full Creative
+
+#### ReactJS
+1. [Learn React.js - Full Course for Beginners](https://www.youtube.com/watch?v=DLX62G4lc44)  
+     - Perfect video to get started with React.  
+     - All the core concepts were explained clearly with easy examples. He also shared some project ideas for practicing. Instead of always trying todo app, he suggested some links where we can find simple projects. The links for sample projects - 
+        1) https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/
+        2) https://medium.com/free-code-camp/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
+
+---
   
   
