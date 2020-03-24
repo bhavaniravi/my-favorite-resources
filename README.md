@@ -125,5 +125,19 @@ I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
         2) https://medium.com/free-code-camp/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 
 ---
+
+
+
+### [Revathy Sivaraman](https://github.com/revs1)
+
+> Software engineer by profession. Love to learn and a ML enthusiast. 
+
+#### Qwiklabs
+1. [Baseline: Data, ML, AI](https://www.qwiklabs.com/quests/34)
+    - Beginner friendly, hands on with GCP ML APIs and sufficient time to complete labs. (We can learn to work around Google cloud platform)
+    - Intractivity of the labs worked for me. Well paced sessions and a brief introduction to various ML APIs.
+    - Nothing in specific
+
+  ---
   
   
