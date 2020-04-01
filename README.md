@@ -141,3 +141,13 @@ I am on [LinkedIn](https://www.linkedin.com/in/joeldemelo).
   ---
   
   
+### [Olagammal Sivasubramanyan](https://github.com/Olagammal)
+
+> College student pursuing engineering .Passionate in learning new technology everyday.Aspiring to become a full stack web developer.[LinkedIn](https://www.linkedin.com/in/olagammal-sivasubramanyan)
+
+#### React.js
+1. [React.js crash course](https://www.youtube.com/watch?v=nvHeB32ICDM&t=3445s)
+    - **Why I love it?** Gives a brief introduction to React.js which was explained well in layman terms.A simple project was developed at the end of the video.Hands-on learning process.
+    - **What i suggest?** This video just gives an idea about how React.js works and is it for complete begginers.One can further explore more based on what they have gained from the video.
+    - **What I didn't understand?** The use of hooks in React.js,as a beginner.
+  
